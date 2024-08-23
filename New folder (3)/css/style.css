@@ -83,5 +83,13 @@ border-radius: 2px;
 }
 .buton button{
     height: 50px;
-    width: 50px;
+    width: 150px;
+    font-size: 18px;
+    border: solid 1px red;
+    cursor: pointer;
+    background: rgb(207,96,88);
+    outline: none;
+    border-radius: 25px;
+   font-weight: bold;
+   color: white;
 }
